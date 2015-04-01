@@ -1,4 +1,5 @@
 git is a free software
+bugfix
 git test
 append GPL
 git has a muti
